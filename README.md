@@ -27,7 +27,7 @@
 
 #### Repository
 - **[trillion Repository](https://github.com/nhnacademy-be12-trillion)**
-- **[도서(Books-Search) Repository](https://github.com/nhnacademy-be12-trillion/order)**
+- **[Cart Service Repository](https://github.com/nhnacademy-be12-trillion/order)**
 
 #### 주요 개발 내용 (Key Development Features)
 

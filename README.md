@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/thymeleaf-%23005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 </p>
 
+---
+
 ## Experience
 
 ### NHN Academy Java Backend 개발자 과정 12기

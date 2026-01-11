@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/thymeleaf-%23005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 </p>
----
 
 ## Experience
 
